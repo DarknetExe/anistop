@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border:10px solid #AFEEEE;
+    background-color:#AFEEEE ;
+    border-radius: 5px;}
+    h1{
+        color:blueviolet;
+        text-transform: uppercase;
+        }
+        footer{
+            background-color: rgb(149, 241, 11);
+            padding: 5px; }
+            nav a{
+                color:navy;}
+                nav{
+                    border:10px solid #AFEEEE}
+                    .fire{
+                        background-color:lightgreen ;}
+.season{color: red;}
+.org{border :3px solid turquoise;}
+h2{color: blue;}
+.kont{text-decoration: none;
+border: 5px solid navy;
+padding: 5px;}
